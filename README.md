@@ -24,5 +24,3 @@
 </div><br />
 
 <i>A mudança que você quer, está na decisão que você toma.</i>
-
-![snake animation](https://github.com/Enryk/Enryk/blob/output/github-contribution-grid-snake.svg)
