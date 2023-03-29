@@ -25,4 +25,4 @@
 
 <i>A mudança que você quer, está na decisão que você toma.</i>
 
-![snake gif](https://github.com/Enryk/Enryk/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Enryk/Enryk/blob/output/github-contribution-grid-snake.svg)
