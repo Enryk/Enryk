@@ -23,6 +23,6 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br />
 ## Atividade no Github
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enryk)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enryk)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <i>A mudança que você quer, está na decisão que você toma.</i>
