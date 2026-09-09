@@ -46,8 +46,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <!-- Estatísticas Gerais -->
   <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Enryk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
